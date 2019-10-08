@@ -23,5 +23,13 @@ class Dog
 end #ends the Dog class
 
 class Person 
+  def intitialize(name, job)
+    @name = name
+    @job = job
+  end
+  
   
 end #ends the Person class
+
+
+
