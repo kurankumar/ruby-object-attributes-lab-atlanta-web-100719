@@ -1,5 +1,7 @@
 class Dog 
-  def intitialize
+  def intitialize(name)
+    @name = name
+  end
   
   def name()
     @name
@@ -9,4 +11,4 @@ end
 
 class Person 
   
-end
+end #ends the Dog class
