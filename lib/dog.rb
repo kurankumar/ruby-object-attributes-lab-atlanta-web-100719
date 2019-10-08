@@ -11,8 +11,8 @@ class Dog
     @name = name
   end
 
-end
+end #ends the Dog class
 
 class Person 
   
-end #ends the Dog class
+end #ends the Person class
